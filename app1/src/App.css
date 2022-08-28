@@ -1,0 +1,23 @@
+.app {
+  padding: 10px;
+}
+.jumbotron {
+  text-align: center;
+}
+
+.card{
+  width: 18em;
+  margin: 10px;
+  height: 15em;
+  
+}
+
+
+ .dgs{
+  display: flex;
+  flex-flow: row wrap ;
+  justify-content: space-around;
+}
+.card-img{
+  height: 100%;
+}
